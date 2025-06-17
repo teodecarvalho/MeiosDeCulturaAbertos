@@ -24,7 +24,7 @@ Desenvolvemos o **meio de cultura BA** com base em recursos acessíveis e de bai
 4. Adicione **5 g de açúcar cristal** ao filtrado e misture bem.
 5. Transfira para o biorreator e complete o volume para 1 litro com **água bruta**.
 6. Adicione **1 mL de óleo de cozinha** e agite manualmente.
-7. Esterilize em **panela de pressão por 20 minutos**, conforme o item 4 do Capítulo II.
+7. Esterilize em **panela de pressão por 20 minutos**, conforme o protocolo de esterilização.
 
 > ℹ️ **Nota**: Não se recomenda bater o açúcar e o óleo no liquidificador. O óleo serve como **controle de espuma**.
 
