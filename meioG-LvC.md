@@ -55,7 +55,7 @@ O meio de cultura **G-LvC** foi desenvolvido com o objetivo de permitir a multip
 3. Transfira para o biorreator e complete com água até 1 L.
 4. Adicione 1 mL de **óleo de cozinha** como antiespumante.
 5. Homogeneíze a solução.
-6. **Esterilize em panela de pressão** conforme descrito no protocolo de esterilização.
+6. **Esterilize em panela de pressão** conforme descrito no [protocolo de esterilização](https://github.com/teodecarvalho/BiorreatorPopular/blob/main/esteriliza%C3%A7%C3%A3o.md).
 7. Após resfriar, o meio está pronto para ser inoculado.
 
 ---
