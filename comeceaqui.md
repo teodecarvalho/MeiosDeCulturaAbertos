@@ -44,7 +44,7 @@ Você pode compartilhar, adaptar e utilizar este conteúdo livremente, inclusive
 
 ## 📢 **Como citar**
 
-**_Sílvia M. de O. Longatti et al. (2025). Meios de Cultura Abertos. UFLA. Licenciado sob CC BY 4.0._**
+**_Sílvia M. de Oliveira-Longatti et al. (2025). Meios de Cultura Abertos. UFLA. Licenciado sob CC BY 4.0._**
 
 
 ## 🙏 Agradecimentos
