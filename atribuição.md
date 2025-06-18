@@ -6,7 +6,7 @@ Este trabalho está licenciado sob a Licença Creative Commons Attribution 4.0 I
 
 
 ## Atribua sempre da seguinte forma: 
-**Sílvia M. de O. Longatti et al. (2025). Meios de Cultura Abertos. UFLA. Licenciado sob CC BY 4.0.**
+**Sílvia M. de Oliveira-Longatti et al. (2025). Meios de Cultura Abertos. UFLA. Licenciado sob CC BY 4.0.**
 > Solicita-se que em qualquer reprodução, adaptação ou uso comercial, a seguinte atribuição seja mantida.
 
 ## Repositório oficial: [https://github.com/teodecarvalho/MeiosDeCulturaAbertos.git]
