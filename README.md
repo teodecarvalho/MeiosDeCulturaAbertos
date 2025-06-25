@@ -61,7 +61,13 @@ Este projeto contou com o apoio e financiamento das seguintes instituições:
 
 A equipe agradece pelo suporte ao desenvolvimento da ciência aberta e da pesquisa aplicada no Brasil.
 
+## 📧 Contato
 
+Para maiores informações, entre em contato com:
+
+**Sílvia Maria de Oliveira-Longatti** [sylmaria@gmail.com](mailto:sylmaria@gmail.com) 
+
+**Marcela de Souza Pereira**       [marcela.pereira4@estudante.ufla.br](mailto:marcela.pereira4@estudante.ufla.br) 
 ## 🔗 Projetos relacionados
 
 - [Biorreator Popular (projeto parceiro)](https://github.com/teodecarvalho/BiorreatorPopular.git)
