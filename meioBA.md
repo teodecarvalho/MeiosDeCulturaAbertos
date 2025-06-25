@@ -21,7 +21,7 @@ Desenvolvemos o **meio de cultura BA** com base em recursos acessíveis e de bai
    - Pese 200 g de batata com casca.
    - Bata no liquidificador com 500 mL de **água bruta** (sem tratamento) até trituração completa.
 3. Passe a mistura por uma **peneira fina**, pressionando com a mão para extrair o máximo de líquido.
-4. Adicione **10 g de glicerol** ao filtrado e misture bem.
+4. Adicione **10 mL de glicerol** ao filtrado e misture bem.
 5. Transfira para o biorreator e complete o volume para 1 litro com **água bruta**.
 6. Adicione **1 mL de óleo de cozinha** e agite manualmente.
 7. Esterilize em **panela de pressão por 20 minutos**, conforme o [protocolo de esterilização](https://github.com/teodecarvalho/BiorreatorPopular/blob/main/esteriliza%C3%A7%C3%A3o.md).
