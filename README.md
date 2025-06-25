@@ -34,12 +34,14 @@ Você pode compartilhar, adaptar e utilizar este conteúdo livremente, inclusive
 > Leia os arquivos [`LICENSE.txt`](./license.txt) e [`atribuicao.txt`](./atribuição.md) para mais detalhes.
 
 
-## 📚 Conteúdo do repositório 
+## 📚 Conteúdo do repositório
 
-- Protocolos detalhados para preparo de diferentes meios de cultura.
-- Alternativas de insumos para redução de custos.
-- Instruções de esterilização e conservação.
-- Fotos e materiais ilustrativos.
+- [Protocolo meio BA para *Azospirillum*](./protocolos/meioBA.md)
+- [Protocolo meio G-LvC para *Rhizobium* e *Bradyrhizobium*](./protocolos/meioG-LvC.md)
+- [Fotos](./fotos/fotos.md)
+- [Atribuição](./docs/atribuicao.md)
+- [Agradecimentos](./docs/agradecimentos.md)
+
   
 
 ## 📢 **Como citar**
