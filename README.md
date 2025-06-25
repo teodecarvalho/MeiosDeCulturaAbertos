@@ -36,11 +36,11 @@ Você pode compartilhar, adaptar e utilizar este conteúdo livremente, inclusive
 
 ## 📚 Conteúdo do repositório
 
-- [Protocolo meio BA para *Azospirillum*](./main/meioBA.md)
-- [Protocolo meio G-LvC para *Rhizobium* e *Bradyrhizobium*](./main/meioG-LvC.md)
-- [Fotos](./main/fotos.md)
-- [Atribuição](./main/atribuicao.md)
-- [Agradecimentos](./main/agradecimentos.md)
+- [Protocolo meio BA para *Azospirillum*](./meioBA.md)
+- [Protocolo meio G-LvC para *Rhizobium* e *Bradyrhizobium*](./meioG-LvC.md)
+- [Fotos](./fotos.md)
+- [Atribuição](./atribuicao.md)
+- [Agradecimentos](./agradecimentos.md)
 
   
 
