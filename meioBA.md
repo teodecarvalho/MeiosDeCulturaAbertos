@@ -9,7 +9,7 @@ Desenvolvemos o **meio de cultura BA** com base em recursos acessíveis e de bai
 | Produto (insumo)    | Quantidade por litro de meio |
 |---------------------|------------------------------|
 | Batata inglesa (com casca) | 200 g                      |
-| Açúcar cristal       | 5 g                          |
+| Glicerol        | 10 mL                           |
 | Óleo de cozinha      | 1 mL                         |
 
 ---
