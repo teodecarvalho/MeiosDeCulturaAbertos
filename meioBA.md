@@ -1,4 +1,4 @@
-# 🥔 Protocolo do Meio de Cultura BA (Batata e Açúcar)
+# 🥔 Protocolo do Meio de Cultura B-Gli (Batata e Glicerol)
 
 Desenvolvemos o **meio de cultura BA** com base em recursos acessíveis e de baixo custo, visando a multiplicação eficiente de estirpes de ***Azospirillum sp.*** diretamente no campo. A composição e o modo de preparo são simples e adaptados à realidade dos produtores.
 
