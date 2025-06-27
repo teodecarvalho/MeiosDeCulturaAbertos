@@ -36,7 +36,7 @@ Você pode compartilhar, adaptar e utilizar este conteúdo livremente, inclusive
 
 ## 📚 Conteúdo do repositório
 
-- [Protocolo meio BA para *Azospirillum*](./meioBA.md)
+- [Protocolo meio B-Gli para *Azospirillum*](./meioBA.md)
 - [Protocolo meio G-LvC para *Rhizobium* e *Bradyrhizobium*](./meioG-LvC.md)
 - [Fotos](./fotos.md)
 - [Atribuição](./atribuição.md)
