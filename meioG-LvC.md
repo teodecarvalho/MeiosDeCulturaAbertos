@@ -1,6 +1,6 @@
-# 🧫 Meio de Cultura G-LvC (Glicerol e Levedo de Cerveja)
+# 🧫 Meio de Cultura GliVeCe (Glicerol e Levedo de Cerveja)
 
-O meio de cultura **G-LvC** foi desenvolvido com o objetivo de permitir a multiplicação eficiente de **_Rhizobium_** e **_Bradyrhizobium_**, utilizando **subprodutos acessíveis e de baixo custo**. A combinação de glicerol como fonte de carbono e levedo de cerveja como fonte de nutrientes possibilitou uma redução significativa no custo de produção.
+O meio de cultura **GliVeCe** foi desenvolvido com o objetivo de permitir a multiplicação eficiente de **_Rhizobium_** e **_Bradyrhizobium_**, utilizando **subprodutos acessíveis e de baixo custo**. A combinação de glicerol como fonte de carbono e levedo de cerveja como fonte de nutrientes possibilitou uma redução significativa no custo de produção.
 
 ---
 
