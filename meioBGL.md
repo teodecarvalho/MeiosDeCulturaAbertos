@@ -5,7 +5,7 @@ A combinação de batata, glicerol e levedo de cerveja possibilitou uma reduçã
 
 ---
 
-## 📋 Composição do Meio BatataGliCe
+## 📋 Composição do Meio BGL
 
 | Produto (insumo)    | Quantidade por litro de meio |
 |---------------------|------------------------------|
