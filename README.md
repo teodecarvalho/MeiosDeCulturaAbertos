@@ -37,7 +37,7 @@ Você pode compartilhar, adaptar e utilizar este conteúdo livremente, inclusive
 ## 📚 Conteúdo do repositório
 
 - [Protocolo meio BA para *Azospirillum*](./meioBA.md)
-- [Protocolo meio GliVeCe para *Rhizobium* e *Bradyrhizobium*](./meioGliVeCe.md)
+- [Protocolo meio Gli-LeCe para *Rhizobium* e *Bradyrhizobium*](./meioGli-LeCe.md)
 - [Protocolo meio BatataGliCe para *Rhizobium* e *Bradyrhizobium*](./meioBatataGliCe.md)
 - [Fotos](./fotos.md)
 - [Atribuição](./atribuição.md)
