@@ -38,7 +38,7 @@ Você pode compartilhar, adaptar e utilizar este conteúdo livremente, inclusive
 
 - [Protocolo meio BA para *Azospirillum*](./meioBA.md)
 - [Protocolo meio Gli-LeCe para *Rhizobium* e *Bradyrhizobium*](./meioGli-LeCe.md)
-- [Protocolo meio BatataGliCe para *Rhizobium* e *Bradyrhizobium*](./meioBatataGliCe.md)
+- [Protocolo meio BGL para *Rhizobium* e *Bradyrhizobium*](./meioBGL.md)
 - [Fotos](./fotos.md)
 - [Atribuição](./atribuição.md)
 - [Agradecimentos](./agradecimentos.md)
