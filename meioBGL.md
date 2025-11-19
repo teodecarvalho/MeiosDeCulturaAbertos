@@ -1,6 +1,6 @@
-# 🥔 Protocolo do Meio de Cultura BatataGliCe (Batata e Glicerol)
+# 🥔 Protocolo do Meio de Cultura BGL (Batata, Glicerol e Levedo)
 
-Desenvolvemos o **meio de cultura BatataGliCe** com base em recursos acessíveis e de baixo custo, visando a multiplicação eficiente de estirpes de ***Rhizobium*** e ***Bradyrhizobium*** diretamente no campo. A composição e o modo de preparo são simples e adaptados à realidade dos produtores.
+Desenvolvemos o **meio de cultura BGL** com base em recursos acessíveis e de baixo custo, visando a multiplicação eficiente de estirpes de ***Rhizobium*** e ***Bradyrhizobium*** diretamente no campo. A composição e o modo de preparo são simples e adaptados à realidade dos produtores.
 A combinação de batata, glicerol e levedo de cerveja possibilitou uma redução significativa no custo de produção.
 
 ---
@@ -16,7 +16,7 @@ A combinação de batata, glicerol e levedo de cerveja possibilitou uma reduçã
 
 ---
 
-## 🧪 Modo de Preparo do Meio BA
+## 🧪 Modo de Preparo do Meio BGL
 
 1. **Lave bem** as batatas em água corrente.
 2. **Para 1 L de meio**:
