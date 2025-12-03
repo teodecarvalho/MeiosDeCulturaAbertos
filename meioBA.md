@@ -32,13 +32,6 @@ Desenvolvemos o **meio de cultura BA** com base em recursos acessíveis e de bai
 
 ---
 
-## 🔁 Observação importante
-
-Para a multiplicação de estirpes de **_Rhizobium_** e **_Bradyrhizobium_**, recomenda-se substituir o **açúcar cristal** por **glicerol (10 mL/L)** como fonte de carbono, garantindo maior eficiência na multiplicação dessas bactérias.
-> ✅ Para essas bactérias, recomenda-se utilizar **glicerol** no lugar do açúcar cristal no preparo do meio BA.
-
----
-
 ## 🧾 Atribuição
 
 Este protocolo foi desenvolvido por:
