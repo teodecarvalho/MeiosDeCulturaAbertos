@@ -77,5 +77,5 @@ Para maiores informações, entre em contato com:
 
 ## ⚠️ Aviso
 
-**Este acervo ainda está em construção.**  
-> Novas atualizações e protocolos adicionais serão disponibilizados em breve.
+**Este acervo ainda está em constante avaliação.**  
+> Novas atualizações e protocolos adicionais serão disponibilizados periodicamente.
