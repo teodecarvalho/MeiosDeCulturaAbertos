@@ -57,7 +57,8 @@ Este projeto contou com o apoio e financiamento das seguintes instituições:
 
 - **CNPq — Conselho Nacional de Desenvolvimento Científico e Tecnológico**  
 - **FINEP — Financiadora de Estudos e Projetos**  
-- **FAPEMIG — Fundação de Amparo à Pesquisa do Estado de Minas Gerais**  
+- **FAPEMIG — Fundação de Amparo à Pesquisa do Estado de Minas Gerais**
+- **INCT Biodiversidade do Solo**  
 - **IQualiS Biotecnologia LTDA - ME**
 
 A equipe agradece pelo suporte ao desenvolvimento da ciência aberta e da pesquisa aplicada no Brasil.
@@ -77,5 +78,5 @@ Para maiores informações, entre em contato com:
 
 ## ⚠️ Aviso
 
-**Este acervo ainda está em constante avaliação.**  
+**Este acervo ainda está em constante atualização.**  
 > Novas atualizações e protocolos adicionais serão disponibilizados periodicamente.
